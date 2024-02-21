@@ -1,4 +1,4 @@
-An Recommendation Chat where the Workout plan and Diet is been given based on the Input parameters such as Name,Age,Weight,Height,Gender,Fitness Goal and Time Period
+An Recommendation Chat where the Workout plan and Diet is been given based on the Input parameters such as Name,Age,Weight,Height,Gender,Fitness Goal and Time Periodand with help of llama2 with langchain
 
 1. Install dependencies :
    ```
