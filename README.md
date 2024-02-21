@@ -14,3 +14,5 @@ A Recommendation Chat   where the Workout plan and Diet is been given based on t
    ```
    streamlit run fitness.py
    ```
+4. Output
+   ![Screenshot 2024-02-21 220256](https://github.com/Sairam-K26/AI-Based-fitness-trainer-Application/assets/94424716/5676af84-76a3-4539-938c-597a4b5077fe)
